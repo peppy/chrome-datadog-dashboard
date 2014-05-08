@@ -1,0 +1,1 @@
+A simple chrome app to encapsulate a datadog dashboard.

@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "Datadog Dashboard",
+	"short_name": "datadog",
+	"version": "1",
+	"icons": { "128": "128.png" },
+	"app": {
+		"urls": [
+		"https://app.datadoghq.com/screen/board/2378?tv_mode=true"
+		],
+		"launch": {
+			"web_url": "https://app.datadoghq.com/screen/board/2378?tv_mode=true"
+		}
+	}
+
+}
